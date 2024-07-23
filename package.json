@@ -45,7 +45,7 @@
     "@types/supertest": "^2.0.8",
     "@types/tape": "^4.2.33",
     "clang-format": "^1.2.4",
-    "depcheck": "^0.8.3",
+    "depcheck": "^1.4.7",
     "koa": "^2.7.0",
     "koa-route": "^3.2.0",
     "portfinder": "^1.0.22",
